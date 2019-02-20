@@ -1,0 +1,9 @@
+#range {
+    height: 100px;
+    width: 100px
+}
+
+#target {
+    width: 20px;
+    position: relative;
+}
